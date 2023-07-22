@@ -1,0 +1,16 @@
+hr 
+{
+    border-color: #fefefe;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+
+}
+h1{
+    color: rgb(41, 11, 70);
+}
+img 
+{
+    height: 55%;
+}
